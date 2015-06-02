@@ -1,4 +1,4 @@
-package psgr.proxy
+package psgr.expander
 
 import akka.http.scaladsl.marshalling.{ PredefinedToEntityMarshallers, ToEntityMarshaller }
 import akka.http.scaladsl.model.MediaTypes

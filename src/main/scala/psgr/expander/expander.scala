@@ -1,4 +1,4 @@
-package psgr.proxy
+package psgr.expander
 
 import play.api.libs.json._
 

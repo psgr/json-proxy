@@ -11,7 +11,7 @@ scalacOptions in Test ++= Seq("-Yrangepos")
 libraryDependencies ++= {
   val akkaV       = "2.3.11"
   val akkaStreamV = "1.0-RC3"
-  val playV       = "2.4.0-RC5"
+  val playV       = "2.4.0"
   Seq(
     "com.typesafe.akka" %% "akka-actor"                        % akkaV,
     "com.typesafe.akka" %% "akka-slf4j" % akkaV,

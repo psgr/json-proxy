@@ -1,4 +1,4 @@
-package psgr.proxy
+package psgr.expander
 
 import akka.actor.ActorSystem
 import akka.http.scaladsl.Http

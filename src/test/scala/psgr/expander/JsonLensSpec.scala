@@ -1,4 +1,4 @@
-package psgr.proxy
+package psgr.expander
 
 import org.specs2._
 import org.specs2.concurrent.ExecutionEnv
